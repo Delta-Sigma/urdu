@@ -1,3 +1,5 @@
+In this repository, I try to collect resources needed for users of Urdu language in the digital world. This is Urdu-focused but hopefully some will also be useful to users of other Nastaliq script languages. Hoping to add links to dictionaries, articles, setting up fonts etc.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Delta-Sigma/urdu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
