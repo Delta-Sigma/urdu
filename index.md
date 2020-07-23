@@ -30,12 +30,14 @@ Sadly, these keyboards don't work like we naturally expect them to work. There a
 ***Note***: These dictionary sites' search functions usually do not work as well as Google's. Using Google search by restricting it to these sites is very helpful at times. Example: 'site:urduseek.com کس و نا کس'
 
 **Translators:**
+
 Translators because sometimes you find a meaning by translating. ;) I usually go through these in the following order when searching for a word's or an idiom's definition.
 
 - [**Bing Translate**](https://translate.bing.com) is better, usually. It's run in partnership with Jawaharlal Nehru University, India. Google's can't seem to translate simple words at times. However, the microsoft translator android app seems to be different and worse.
 - [**Google Translate**](https://translate.google.com) The noob option.
 
 **Dictionary Troubleshooting: What to do if you can't find a word or an idiom using any of the above?**
+
 - Try removing suffixes and prefixes.
 - Try singular forms.
 - Try translating from Arabic/Persian/etc. A lot of Urdu literature uses Arabic or Farsi expressions. Try translating from Arabic or Farsi to get an idea of the meaning. It's not perfect. But I found it to work at times. 
