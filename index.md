@@ -51,18 +51,22 @@ Translating **to** Arabic or Persian also gives a nice word that is perfectly us
 -------------
 
 ## Displaying Urdu Properly i.e. in Nastaleeq
+
 - MacOS
+
   Enable Urdu Keyboard in Region Settings. 
 
 - iPhone
-  Check out this post by Mudassir Azeemi: 
-  https://medium.com/@mazeemi/how-to-enable-nastaleeq-typeface-on-ios-11-946577c7429a
+
+  Check out this post by Mudassir Azeemi at Medium: 
+  [https://medium.com/@mazeemi/how-to-enable-nastaleeq-typeface-on-ios-11-946577c7429a](https://medium.com/@mazeemi/how-to-enable-nastaleeq-typeface-on-ios-11-946577c7429a)
 
 - Android
-  Out of luck so far.
-  Maybe this can be a project for you. Write a program that can replace system's fonts' Arabic codepoints with Nastaleeq ones from Jameel Noori Nastaleeq. 😛 
+
+  Out of luck so far. Maybe this can be a project for you. Write a program that can replace system's fonts' Arabic codepoints with Nastaleeq ones from Jameel Noori Nastaleeq. 😛 
 
 - Windows
+
   No easy way in Windows 7. I haven't used Windows' Spyware versions i.e. 8 and 10. So if you have any suggestions, feel free to contribute.
 
 ------------------------------
