@@ -7,6 +7,8 @@ This tutorial currently assumes you know how to install support for other langua
 
 Sadly, these keyboards don't work like we naturally expect them to work. There are some caveats to take care of. For example a search for 'رشتے دار' might fail because the dictionary doesn't have a space between two words and instead has an entry for 'رشتےدار'. This, and several more. But I can see that you are resilient and work your way around it. :)
 
+----
+
 ## Dictionaries (...and Translators)
 
 ### The best two dictionaries:
