@@ -3,9 +3,22 @@
 Most resources listed here require use of support of Urdu language on your keyboard. Please install keyboard first.
 
 ## USUALLY IMPORTANT FIRST STEP: Installing Necessary Keyboards and Understanding How to Use Them
-This tutorial currently assumes you know how to install support for other languages in your PC or mobile phone. In the later updates, we will link to the steps for those as well. 
+
+This tutorial currently assumes you know how to install support for other languages in your PC or mobile phone. A few links to keyboards and input methods are given, but the list is incomplete.
+
+----
+## Writing Urdu
+
+### Keyboards
+- [Urdu Phonetic Keyboard for Windows 7/8/10](https://urdu.ca/2)
+- [Urdu Input Tools by Google](https://www.google.com/inputtools/try/) Online tool for typing Urdu (and other languages).
 
 Sadly, these keyboards don't work like we naturally expect them to work. There are some caveats to take care of. For example a search for 'رشتے دار' might fail because the dictionary doesn't have a space between two words and instead has an entry for 'رشتےدار'. This, and several more. But I can see that you are resilient and work your way around it. :)
+
+### Fonts
+
+Modern OSes sometimes come with these fonts e.g. 'Urdu Typesetting' in Windows 8+. Sometimes, you'd need to install.
+- [Google Noto Nastaliq](https://www.google.com/get/noto/#nastaliq-aran)
 
 ----
 
