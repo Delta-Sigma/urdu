@@ -34,10 +34,12 @@ Modern OSes sometimes come with these fonts e.g. 'Urdu Typesetting' in Windows 8
   Very good for looking up translations of technical jargon. Don't let the old interface fool you.
 - [**Urdu Inc**](https://www.urduinc.com/) <br>
   A very good dictionary but is more of synonyms instead of detailed meanings. Arguably, that's sometimes even better than the meanings. Will also give Urdu-to-English meanings.
-- [**Urdu Seek**](https://urduseek.com/) </br>
+- [**Urdu Seek**](https://urduseek.com/) <br>
   Sometimes when all else fails, I sometimes find meaning here. Very good for English to Urdu searches as well.
-- [**Lexilogos**](https://www.lexilogos.com/english/urdu_dictionary.htm) Dictionaries of many many languages. Thank you, Xavier Négre.
-- [**Glosbe**](https://en.glosbe.com/) 6000 languages. Will also give you results from books that are translated in many lanaguages. e.g. if you search an English word in English to Urdu dictionary, wherever that word appeared in the Bible, alongwith how that verse was translated to Urdu.
+- [**Lexilogos**](https://www.lexilogos.com/english/urdu_dictionary.htm) <br> 
+  Dictionaries of many many languages. Thank you, Xavier Négre.
+- [**Glosbe**](https://en.glosbe.com/) <br>
+  6000 languages. Will also give you results from books that are translated in many lanaguages. e.g. if you search an English word in English to Urdu dictionary, wherever that word appeared in the Bible, alongwith how that verse was translated to Urdu.
 
 ***Note***: These dictionary sites' search functions usually do not work as well as Google's. Using Google search by restricting it to these sites is very helpful at times. Example: 'site:urduseek.com کس و نا کس'
 
@@ -50,7 +52,7 @@ Because sometimes you find a meaning by translating. ;) I usually go through the
 ### Dictionary Troubleshooting: What to do if you can't find a word or an idiom using any of the above?
 - Try removing suffixes and prefixes.
 - Try singular forms.
-- Try translating from Arabic/Persian/etc. A lot of Urdu literature uses Arabic or Farsi expressions. Try translating from Arabic or Farsi to get an idea of the meaning. It's not perfect. But I found it to work at times. 
+- Try translating from Arabic/Persian/etc. A lot of Urdu literature uses Arabic or Persian expressions. Try translating from Arabic or Persian to get an idea of the meaning. It's not perfect. But I found it to work at times. 
 
 Translating **to** Arabic or Persian also gives a nice word that is perfectly usable in Urdu. e.g. Google's Translator from 'cute' gives 'دلفریب' in Persian. But only gives 'پیارا/پیاری' in Urdu. Noob
 
