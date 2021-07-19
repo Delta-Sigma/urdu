@@ -38,7 +38,7 @@ Modern OSes sometimes come with these fonts e.g. 'Urdu Typesetting' in Windows 8
 - **Urdu Inc** [Website](https://www.urduinc.com/)
   A very good dictionary but is more of synonyms instead of detailed meanings. Arguably, that's sometimes even better than the meanings. Will also give Urdu-to-English meanings.
 
-- **Urdu Seek** [Website](https://urduseek.com/)
+- **Urdu Seek** [Website](https://urduseek.com/) </br>
   Sometimes when all else fails, I sometimes find meaning here and in Urdu Inc.
 
 ***Note***: These dictionary sites' search functions usually do not work as well as Google's. Using Google search by restricting it to these sites is very helpful at times. Example: 'site:urduseek.com کس و نا کس'
