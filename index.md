@@ -2,14 +2,17 @@
 
 Most resources listed here require use of support of Urdu language on your keyboard. Please install keyboard first.
 
-## USUALLY IMPORTANT FIRST STEP: Installing Necessary Keyboards and Understanding How to Use Them
+----
+
+## IMPORTANT FIRST STEP: Installing Necessary Keyboards and Understanding How to Use Them
 
 This tutorial currently assumes you know how to install support for other languages in your PC or mobile phone. A few links to keyboards and input methods are given, but the list is incomplete.
 
 ----
 ## Writing Urdu
+- [Setting up your Mac](keyboard_mac.md)
 
-### Keyboards
+### Phonetic Keyboards
 - [Urdu Phonetic Keyboard for Windows 7/8/10](https://urdu.ca/2)
 - [Urdu Input Tools by Google](https://www.google.com/inputtools/try/) Online tool for typing Urdu (and other languages).
 
