@@ -33,7 +33,7 @@ Modern OSes sometimes come with these fonts e.g. 'Urdu Typesetting' in Windows 8
   Does not have audio pronunciations, but has written pronunciates. The app searches words as you type, which is nice. Will give historical roots of the words. My suggestion would be to install both this and UDB one (first in the list) in your phone for quick reference.
   
 ### And many more:
-- [**National Language Promotion Department / اِدارۂ فروغِ قومی زبان**](http://nlpd.gov.pk/lughat/search.php) <br>
+- [**National Language Promotion Department / اِدارۂ فروغِ قومی زبان**](http://nlpd.gov.pk/lughat/index.php) <br>
   Very good for looking up translations of technical jargon. Don't let the old interface fool you.
 - [**Urdu Inc**](https://www.urduinc.com/) <br>
   A very good dictionary but is more of synonyms instead of detailed meanings. Arguably, that's sometimes even better than the meanings. Will also give Urdu-to-English meanings.
