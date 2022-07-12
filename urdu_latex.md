@@ -31,7 +31,7 @@ We will use the `polyglossia` library. This lets us set a primary language, and 
 And, as Urdu text needs to be a bit larger to read properly, we will use `[Scale=1.25]` when loading the font for Urdu.
 
 Here is the code:
-{% highlighting tex %}
+{% highlight tex %}
 {% raw %}
 ```
 \documentclass{article}
@@ -69,7 +69,7 @@ Here is the code:
 \end{document}
 ```
 {% endraw %}
-{% endhighlighting %}
+{% endhighlight %}
 
 As of today, overleaf's editor doesn't work nicely with non-monospace text. You can type Urdu, but the cursor position displayed and the actual character being edited can be at different places, making it quite difficult to manage. A workaround is to use a local text editor, or to change browser fonts such that Arabic script is also monospaced.
 
