@@ -11,6 +11,7 @@ This tutorial currently assumes you know how to install support for other langua
 ----
 ## Writing Urdu
 - [Setting up your Mac](keyboard_mac.md)
+- [Typesetting Urdu in LaTeX](urdu_latex.md)
 
 ### Phonetic Keyboards
 - [Urdu Phonetic Keyboard for Windows 7/8/10](https://urdu.ca/2)
