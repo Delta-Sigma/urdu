@@ -1,3 +1,4 @@
+{% raw %}{% seo %}{% endraw %}
 # Digital Urdu Resources
 
 Most resources listed here require use of support of Urdu language on your keyboard. Please install keyboard first.
