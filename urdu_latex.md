@@ -32,6 +32,7 @@ And, as Urdu text needs to be a bit larger to read properly, we will use `[Scale
 
 Here is the code:
 {% highlight tex %}
+{% raw %}
 \documentclass{article}
 \usepackage{polyglossia}
 
@@ -65,6 +66,7 @@ Here is the code:
 }%
 
 \end{document}
+{% endraw %}
 {% endhighlight %}
 
 As of today, overleaf's editor doesn't work nicely with non-monospace text. You can type Urdu, but the cursor position displayed and the actual character being edited can be at different places, making it quite difficult to manage. A workaround is to use a local text editor, or to change browser fonts such that Arabic script is also monospaced.
@@ -80,8 +82,8 @@ Overleaf's online pdf renderer is not perfect either. The following is the resul
 And now finally, with main language as English, and secondary language as Urdu.
 
 The code:
+{% highlight tex %}
 {% raw %}
-```
 \documentclass{article}
 \usepackage{polyglossia}
 
@@ -115,8 +117,8 @@ Numbers can still give us trouble. Remember to use \verb|\hboxL{}| and \verb|\hb
 Happy Urdu typesetting. \texturdu{اللہ حافظ}.
 
 \end{document}
-```
 {% endraw %}
+{% endhighlight %}
 
 And the result:
 ![Result with main language set as English](img/latex_tut/2-result_english.png)
