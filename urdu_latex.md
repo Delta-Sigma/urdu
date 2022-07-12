@@ -3,19 +3,19 @@
 We will use [overleaf](https://www.overleaf.com) for this tutorial, but the same should apply to local LaTeX installations.
 
 Summary:
-1. Change Compiler to XeTeX
+1. Change Compiler to XeLaTeX
 2. Upload a font that can display Urdu (e.g. Jameel Noori Nastaleeq)
 3. Use polyglossia library to typeset Urdu.
 
-### 1. Change Compiler to XeTeX
+### 1. Change Compiler to XeLaTeX
 
 pdfLaTeX and LaTeX can't deal with unicode characters without going to extreme lengths which is not practical if you want to write more than a few letters of another language.
 
-Although both LuaLaTeX and XeTeX should support unicode, I could not make LuaLaTeX work.
+Although both LuaLaTeX and XeLaTeX should support unicode, I could not make LuaLaTeX work.
 
-In overleaf, you can do this by clicking "Menu" in the top-left, and then changing "Compiler" from the drop down to XeTeX.
+In overleaf, you can do this by clicking "Menu" in the top-left, and then changing "Compiler" from the drop down to XeLaTeX.
 
-![Change Compiler to XeTeX](img/latex_tut/1-compiler.png)
+![Change Compiler to XeLaTeX](img/latex_tut/1-compiler.png)
 
 
 ### 2. Use Urdu Font
@@ -35,10 +35,13 @@ Here is the code:
 {% raw %}
 \documentclass{article}
 \usepackage{polyglossia}
+\usepackage{fontspec}
 
 \setmainlanguage{urdu}
 \setotherlanguage{english}
 \newfontfamily\urdufont[Scale=1.25]{jameel.ttf}
+\def\urdunumber#1{\protect\farsidigits{\number#1}} %important to make urdu numbers
+
 
 \title{اردو تجربہ گاہ}
 \author{دانیال سعید}
@@ -49,6 +52,7 @@ Here is the code:
 \begin{document}
 
 \maketitle
+
 
 \section{%
 پیش لفظ
@@ -64,6 +68,15 @@ Here is the code:
 \hboxL{%
 + ۹۲ ۴۲ ۱۲۳۴۵۶۷۸
 }%
+
+\section{%
+ایک پورا انگریزی پیراگراف%
+}%
+\begin{english}
+This paragraph is entirely in English, enclosed within \verb|\begin{english}| and \verb|\end{english}| tags.
+\end{english}
+
+\subsection{ذیلی سرنامہ}
 
 \end{document}
 {% endraw %}
@@ -114,6 +127,17 @@ This text is in English, but Urdu (\texturdu{%
 
 Numbers can still give us trouble. Remember to use \verb|\hboxL{}| and \verb|\hboxR{}| commands to deal with them.
 
+\subsection{A Complete Urdu Paragraph}
+
+\begin{urdu}
+یہ پیراگراف مکمل طور پر اُردو میں ہے، اسے %
+\textenglish{\texttt{\textbackslash begin\{urdu\}}}%
+ اور %
+\textenglish{\texttt{\textbackslash end\{urdu\}}}\;%
+ ٹیگز کے درمیان لکھا گیا ہے۔ %
+\end{urdu}
+
+
 Happy Urdu typesetting. \texturdu{اللہ حافظ}.
 
 \end{document}
@@ -122,3 +146,8 @@ Happy Urdu typesetting. \texturdu{اللہ حافظ}.
 
 And the result:
 ![Result with main language set as English](img/latex_tut/2-result_english.png)
+
+
+#### References
+
+- [`polyglossia` Documentation](https://ctan.org/pkg/polyglossia)
