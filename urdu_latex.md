@@ -6,8 +6,6 @@ Summary:
 1. Change Compiler to XeTeX
 2. Upload a font that can display Urdu (e.g. Jameel Noori Nastaleeq)
 3. Use polyglossia library to typeset Urdu.
-A. Troubleshooting
-B. References
 
 ### 1. Change Compiler to XeTeX
 
@@ -33,6 +31,7 @@ We will use the `polyglossia` library. This lets us set a primary language, and 
 And, as Urdu text needs to be a bit larger to read properly, we will use `[Scale=1.25]` when loading the font for Urdu.
 
 Here is the code:
+{% raw %}
 ```
 \documentclass{article}
 \usepackage{polyglossia}
@@ -69,6 +68,7 @@ Here is the code:
 \end{document}
 
 ```
+{% end raw %}
 
 As of today, overleaf's editor doesn't work nicely with non-monospace text. You can type Urdu, but the cursor position displayed and the actual character being edited can be at different places, making it quite difficult to manage. A workaround is to use a local text editor, or to change browser fonts such that Arabic script is also monospaced.
 
@@ -83,6 +83,7 @@ Overleaf's online pdf renderer is not perfect either. The following is the resul
 And now finally, with main language as English, and secondary language as Urdu.
 
 The code:
+{% raw %}
 ```
 \documentclass{article}
 \usepackage{polyglossia}
@@ -118,6 +119,7 @@ Happy Urdu typesetting. \texturdu{اللہ حافظ}.
 
 \end{document}
 ```
+{% end raw %}
 
 And the result:
 ![Result with main language set as English](img/latex_tut/2-result_english.png)
