@@ -44,6 +44,8 @@ Modern OSes sometimes come with these fonts e.g. 'Urdu Typesetting' in Windows 8
   Dictionaries of many many languages. Thank you, Xavier Négre.
 - [**Glosbe**](https://en.glosbe.com/) <br>
   6000 languages. Will also give you results from books that are translated in many lanaguages. e.g. if you search an English word in English to Urdu dictionary, wherever that word appeared in the Bible, alongwith how that verse was translated to Urdu.
+- [**Center for Language Engineering**](http://oud.cle.org.pk/) <br>
+  Many more resources at the homepage of [Center of Lanuage Engineering](https://www.cle.org.pk), including a [Punjabi dictionary](http://opd.cle.org.pk), [Sindhi dictionary](https://sed.cle.org.pk), and [Torwali dictionary](http://otd.cle.org.pk/).
 
 ***Note***: These dictionary sites' search functions usually do not work as well as Google's. Using Google search by restricting it to these sites is very helpful at times. Example: 'site:urduseek.com کس و نا کس'
 
