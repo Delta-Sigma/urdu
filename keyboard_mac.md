@@ -1,4 +1,6 @@
-## Setting Up Urdu Input in a Mac
+[🔼 Back to Urdu Resources Home](index.md)
+
+# Setting Up Urdu Input in a Mac
 
 1. Go to *System Preferences* > *Keyboard*
 2. In the *Input Sources* tab, Click *+* button
