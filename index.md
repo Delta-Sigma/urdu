@@ -5,8 +5,9 @@ Most resources listed here require use of support of Urdu language on your keybo
 
 ----
 
-## IMPORTANT FIRST STEP: Installing Necessary Keyboards and Understanding How to Use Them
-
+<div style="color:Tomato;"><strong>
+IMPORTANT FIRST STEP: Installing Necessary Keyboards and Understanding How to Use Them
+</strong></div>
 This tutorial currently assumes you know how to install support for other languages in your PC or mobile phone. A few links to keyboards and input methods are given, but the list is incomplete.
 
 ----
