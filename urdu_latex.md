@@ -1,6 +1,6 @@
 [🔼 Back to Urdu Resources Home](index.md)
 
-# Writing Urdu in LaTex
+# Writing Urdu in LaTeX
 
 We will use [overleaf](https://www.overleaf.com) for this tutorial, but the same should apply to local LaTeX installations.
 
