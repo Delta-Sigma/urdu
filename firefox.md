@@ -1,6 +1,8 @@
 [🔼 Back to Urdu Resources Home](index.md)
 
-This requires some technical know-how, but it's not that hard, I promise you. Make sure you are running [Firefox](https://www.mozilla.org/en-GB/firefox/new/), which is the best browser in the world, at least among the mainstream ones. This only works with Desktop, unless Firefox 
+# Displaying Urdu in Firefox
+
+This requires some technical know-how, but it's not that hard, I promise you. Make sure you are running [Firefox](https://www.mozilla.org/en-GB/firefox/new/), which is the best browser in the world, at least among the mainstream ones. This only works with Desktop, unless Firefox enables Greasemonkey like add-ons on Android and iOS.
 
 In Firefox, do the following:
 
@@ -15,5 +17,5 @@ Here is the result:
 
 ![Alif Result](img/firefox/alif_result.png)
 
-## References:
-- [Alif on Github](https://github.com/Delta-Sigma/urdu-readability-fixing-script/)
+### References:
+*- [Alif on Github](https://github.com/Delta-Sigma/urdu-readability-fixing-script/)*
