@@ -2,6 +2,8 @@
 
 # Displaying Urdu in Firefox
 
+**NOTE: Install Urdu fonts first**
+
 This requires some technical know-how, but it's not that hard, I promise you. Make sure you are running [Firefox](https://www.mozilla.org/en-GB/firefox/new/), which is the best browser in the world, at least among the mainstream ones. This only works with Desktop, unless Firefox enables Greasemonkey like add-ons on Android and iOS.
 
 In Firefox, do the following:
