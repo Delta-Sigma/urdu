@@ -41,7 +41,7 @@ Modern OSes sometimes come with these fonts e.g. 'Urdu Typesetting' in Windows 8
 - [**Urdu Seek**](https://urduseek.com/) <br>
   Sometimes when all else fails, I sometimes find meaning here. Very good for English to Urdu searches as well.
 - [**Lexilogos**](https://www.lexilogos.com/english/urdu_dictionary.htm) <br> 
-  Dictionaries of many many languages. Thank you, Xavier Négre.
+  Dictionaries of many many languages.
 - [**Glosbe**](https://en.glosbe.com/) <br>
   6000 languages. Will also give you results from books that are translated in many lanaguages. e.g. if you search an English word in English to Urdu dictionary, wherever that word appeared in the Bible, alongwith how that verse was translated to Urdu.
 - [**Center for Language Engineering**](http://oud.cle.org.pk/) <br>
@@ -65,7 +65,8 @@ Translating **to** Arabic or Persian also gives a nice word that is perfectly us
 -------------
 ## Displaying Urdu Properly i.e. in Nastaleeq
 
-- **MacOS**: Enable Urdu Keyboard in Region Settings. 
+- [**Firefox**](firefox.md): Install the Alif user script.
+- [**MacOS**](keyboard_mac.md): Enable Urdu Keyboard in Region Settings. 
 - [**iPhone**](https://medium.com/@mazeemi/how-to-enable-nastaleeq-typeface-on-ios-11-946577c7429a) - Thank you Mudassir Azeemi.
 - **Android**: Out of luck so far. Maybe this can be a project for you. Write a program that can replace system's fonts' Arabic codepoints with Nastaleeq ones from Jameel Noori Nastaleeq. 😛 
 - **Windows**: No easy way in Windows 7. I haven't used Windows' Spyware versions i.e. 8 and 10. So if you have any suggestions, feel free to contribute.
